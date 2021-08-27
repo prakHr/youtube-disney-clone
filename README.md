@@ -1,5 +1,3 @@
-# Live Demo is present at this [FIREBASE HOSTED WEBSITE](https://disneyplus-clone-2a8de.web.app)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
